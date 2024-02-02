@@ -33,4 +33,5 @@
 - [How do you manage complex business logic within the ViewModel in MVVM?](https://medium.com/@phyothinzaraung/how-do-you-manage-complex-business-logic-within-the-viewmodel-in-mvvm-f9645ed92f6b).
 - [How do you manage complex business logic within the ViewModel in MVVM?](https://medium.com/@phyothinzaraung/how-do-you-manage-complex-business-logic-within-the-viewmodel-in-mvvm-be22b6244594).
 
-
+## Jetpack Compose Interview Questions and Answers
+- [30 interview questions and answers](https://medium.com/@phyothinzaraung/jetpack-compose-interview-questions-and-answers-d24b56cf583c)
