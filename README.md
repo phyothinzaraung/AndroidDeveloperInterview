@@ -31,7 +31,7 @@
 ### MVVM
 - [How does data binding work in MVVM and what are its advantages?](https://medium.com/@phyothinzaraung/how-does-data-binding-work-in-mvvm-and-what-are-its-advantages-c74d960429f0).
 - [How do you manage complex business logic within the ViewModel in MVVM?](https://medium.com/@phyothinzaraung/how-do-you-manage-complex-business-logic-within-the-viewmodel-in-mvvm-f9645ed92f6b).
-- [How do you manage complex business logic within the ViewModel in MVVM?](https://medium.com/@phyothinzaraung/how-do-you-manage-complex-business-logic-within-the-viewmodel-in-mvvm-be22b6244594).
+- [Describe how you would test a ViewModel in MVVM.](https://medium.com/@phyothinzaraung/how-do-you-manage-complex-business-logic-within-the-viewmodel-in-mvvm-be22b6244594)
 
 ## Jetpack Compose Interview Questions and Answers
 - [30 interview questions and answers](https://medium.com/@phyothinzaraung/jetpack-compose-interview-questions-and-answers-d24b56cf583c)
