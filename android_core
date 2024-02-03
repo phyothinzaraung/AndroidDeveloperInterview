@@ -1,0 +1,43 @@
+Android Core Interview Questions
+
+Here are some interview questions categorized by difficulty level for various aspects of Android Core:
+Basic:
+
+What are the different components of an Android application?
+Explain the Android activity lifecycle.
+What are Intents and how are they used?
+Describe the different types of Layouts in Android.
+How do you handle user interaction in Android?
+What are Fragments and how can they be used?
+Explain the Android Manifest file and its key elements.
+What are Resources in Android and how are they used?
+What are Content Providers and how do they work?
+Describe the Android permissions system.
+
+Intermediate:
+Explain the difference between Data Binding and View Binding.
+How do you implement asynchronous tasks in Android?
+What are Services and how are they used?
+Describe the Broadcast Receivers and their use cases.
+Explain the Android Studio tools and their functionalities.
+How do you debug Android applications?
+What are best practices for writing clean and maintainable Android code?
+Describe the different testing frameworks for Android development.
+Explain the Android build system and Gradle configuration.
+How do you optimize the performance of an Android application?
+
+Advanced:
+Explain the Android NDK and its use cases.
+Describe the Android Jetpack libraries and their benefits.
+How do you implement custom views in Android?
+Explain the different animation approaches in Android.
+Describe the Architecture components like ViewModel and LiveData.
+How do you design and implement reactive applications in Android?
+Explain the Android security model and best practices for secure development.
+Describe the different testing strategies for UI and unit testing.
+How do you integrate third-party libraries in an Android application?
+Explain the latest trends and advancements in Android development.
+Explain the challenges faced in developing for different screen sizes and resolutions.
+Describe your experience with different version control systems like Git.
+Discuss your knowledge of cross-platform development frameworks like Flutter or React Native.
+Share your experience with continuous integration and continuous delivery (CI/CD) for Android development.
