@@ -5,6 +5,7 @@
 - [Android Architecture Patterns](#android-architecture-patterns)
 - [Jetpack Compose](#jetpack-compose)
 - [Android Core](#android-core)
+- [Kotlin Coroutines](#kotlin-coroutines)
 
 ## Android Architecture Patterns
 
@@ -140,4 +141,7 @@
   
 ### 10. Explain the latest trends and advancements in Android development.
 - **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-the-latest-trends-and-advancements-in-Android-development-c94187670f9844ff9d76530dc7f872bf).
+
+## Kotlin Coroutines
+- [Coroutines and Flow interview questions and answers](https://tundra-order-124.notion.site/Kotlin-Coroutines-and-Flow-bd52890402404d70885907426d75fc39)
 
