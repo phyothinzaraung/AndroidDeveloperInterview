@@ -1,5 +1,12 @@
 # Android Developer Interview
-## Android Architecture Patterns Interview Questions
+
+## Contents
+
+- [Android Architecture Patterns](#android-architecture-patterns)
+- [Jetpack Compose](#jetpack-compose)
+- [Android Core](#android-core)
+
+## Android Architecture Patterns
 
 ### 1. What are the main benefits of using architecture patterns in Android development?
 - **Answer:** For a detailed exploration, check out [this article](https://medium.com/@phyothinzaraung/what-are-the-main-benefits-of-using-architecture-patterns-in-android-development-21e6597230d7).
@@ -33,5 +40,44 @@
 - [How do you manage complex business logic within the ViewModel in MVVM?](https://medium.com/@phyothinzaraung/how-do-you-manage-complex-business-logic-within-the-viewmodel-in-mvvm-f9645ed92f6b).
 - [Describe how you would test a ViewModel in MVVM.](https://medium.com/@phyothinzaraung/how-do-you-manage-complex-business-logic-within-the-viewmodel-in-mvvm-be22b6244594)
 
-## Jetpack Compose Interview Questions and Answers
+## Jetpack Compose
+
 - [30 interview questions and answers](https://medium.com/@phyothinzaraung/jetpack-compose-interview-questions-and-answers-d24b56cf583c)
+
+## Android Core
+
+### Here are some interview questions categorized by difficulty level for various aspects of Android Core:
+## Basic:
+### 1.What are the different components of an Android application?
+### 2.Explain the Android activity lifecycle.
+### 3.What are Intents and how are they used?
+### 4.Describe the different types of Layouts in Android.
+### 5.How do you handle user interaction in Android?
+### 6.What are Fragments and how can they be used?
+### 7.Explain the Android Manifest file and its key elements.
+### 8.What are Resources in Android and how are they used?
+### 9.What are Content Providers and how do they work?
+### 10.Describe the Android permissions system.
+## Intermediate:
+### 1.Explain the difference between Data Binding and View Binding.
+### 2.How do you implement asynchronous tasks in Android?
+### 3.What are Services and how are they used?
+### 4.Describe the Broadcast Receivers and their use cases.
+### 5.Explain the Android Studio tools and their functionalities.
+### 6.How do you debug Android applications?
+### 7.What are best practices for writing clean and maintainable Android code?
+### 8.Describe the different testing frameworks for Android development.
+### 9.Explain the Android build system and Gradle configuration.
+### 10.How do you optimize the performance of an Android application?
+## Advanced:
+### 1.Explain the Android NDK and its use cases.
+### 2.Describe the Android Jetpack libraries and their benefits.
+### 3.How do you implement custom views in Android?
+### 4.Explain the different animation approaches in Android.
+### 5.Describe the Architecture components like ViewModel and LiveData.
+### 6.How do you design and implement reactive applications in Android?
+### 7.Explain the Android security model and best practices for secure development.
+### 8.Describe the different testing strategies for UI and unit testing.
+### 9.How do you integrate third-party libraries in an Android application?
+### 10.Explain the latest trends and advancements in Android development.
+
