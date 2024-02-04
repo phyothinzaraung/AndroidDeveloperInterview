@@ -6,6 +6,7 @@
 - [Jetpack Compose](#jetpack-compose)
 - [Android Core](#android-core)
 - [Android Libraries](#android-libraries)
+- [Android Testing](#android-testing)
 - [Kotlin Coroutines](#kotlin-coroutines)
 
 ## Android Architecture Patterns
@@ -211,6 +212,59 @@
 
 ### 4. Are there any other specific libraries you are familiar with and would like to highlight?
 - **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Are-there-any-other-specific-libraries-you-are-familiar-with-and-would-like-to-highlight-784f640f36744d89bd8a8c548bfa2dbe)
+
+## Android Testing
+
+## Fundamentals:
+
+### 1. Explain the different types of Android testing (unit, integration, UI, etc.) and their purposes.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-the-different-types-of-Android-testing-unit-integration-UI-etc-and-their-purposes-6339b414de9347cfab5e15c7c493c6ba)
+
+### 2. What are the benefits and drawbacks of manual vs. automated testing?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/What-are-the-benefits-and-drawbacks-of-manual-vs-automated-testing-8fe67cec39354908a879d57c247bfa8b)
+
+### 3. Describe the role of test doubles (mocks, stubs, fakes) in Android testing.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Describe-the-role-of-test-doubles-mocks-stubs-fakes-in-Android-testing-aee6a26ca71b41ddb87ba9641a5fb3b5)
+
+### 4. How do you handle different screen sizes and orientations during testing?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-do-you-handle-different-screen-sizes-and-orientations-during-testing-f978373490084aa591e2f35ec2e581d3)
+
+### 5. What are some best practices for writing effective and maintainable test cases?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/What-are-some-best-practices-for-writing-effective-and-maintainable-test-cases-f4d925ecb23848c496a31098c5ae67b8)
+
+## Intermediate:
+
+### 1. Explain how you would test an asynchronous operation like a network request.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-how-you-would-test-an-asynchronous-operation-like-a-network-request-c5ed21f6c60644068fe8bf6565de4b6b)
+
+### 2. What are some common challenges you face during Android testing and how do you overcome them?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/What-are-some-common-challenges-you-face-during-Android-testing-and-how-do-you-overcome-them-455d0de71e584d27b2198e952d406a72)
+
+### 3. Discuss the tools and frameworks you use for UI testing (e.g., Espresso, Robolectric).
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Discuss-the-tools-and-frameworks-you-use-for-UI-testing-e-g-Espresso-Robolectric-Mockito-b02f11d8c73e4935bb4820eb8a286dcd)
+
+### 4. How do you integrate continuous integration/continuous delivery (CI/CD) with your testing process?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-do-you-integrate-continuous-integration-continuous-delivery-CI-CD-with-your-testing-process-fa7b5f2b451c42309b569aca03f04278)
+
+### 5. Explain how you would test an app that uses third-party libraries or APIs.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-how-you-would-test-an-app-that-uses-third-party-libraries-or-APIs-f61889ca47794601a45e1b38086f8c2b)
+
+## Advanced:
+
+### 1. What are some advanced testing techniques like property-based testing or data-driven testing?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/What-are-some-advanced-testing-techniques-like-property-based-testing-or-data-driven-testing-4a1a6895fed643878f66cc26aaccd873)
+
+### 2. How would you approach performance testing or accessibility testing for an Android app?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-would-you-approach-performance-testing-or-accessibility-testing-for-an-Android-app-abc4499166004605a9a81ee282032848)
+
+### 3. Discuss the advantages and limitations of using cloud-based testing platforms.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Discuss-the-advantages-and-limitations-of-using-cloud-based-testing-platforms-81c97beab8ed4e9c8500c4e64cd6904b)
+
+### 4. How do you stay up-to-date with the latest testing trends and best practices in Android development?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-do-you-stay-up-to-date-with-the-latest-testing-trends-and-best-practices-in-Android-development-e6aef04100a947568d34169fa3a3ff03)
+
+### 5. Share an example of a complex testing challenge you faced and how you solved it.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Share-an-example-of-a-complex-testing-challenge-you-faced-and-how-you-solved-it-bcbda8eb1fe94723b331ee1331cf8bf9)
 
 ## Kotlin Coroutines
 - [Coroutines and Flow interview questions and answers](https://tundra-order-124.notion.site/Kotlin-Coroutines-and-Flow-bd52890402404d70885907426d75fc39)
