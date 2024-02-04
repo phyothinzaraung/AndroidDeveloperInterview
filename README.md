@@ -5,6 +5,7 @@
 - [Android Architecture Patterns](#android-architecture-patterns)
 - [Jetpack Compose](#jetpack-compose)
 - [Android Core](#android-core)
+- [Android Libraries](#android-libraries)
 - [Kotlin Coroutines](#kotlin-coroutines)
 
 ## Android Architecture Patterns
@@ -141,6 +142,75 @@
   
 ### 10. Explain the latest trends and advancements in Android development.
 - **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-the-latest-trends-and-advancements-in-Android-development-c94187670f9844ff9d76530dc7f872bf).
+
+## Android Libraries
+
+## General:
+
+### 1. Which Android libraries have you used the most, and what are their key features?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Which-Android-libraries-have-you-used-the-most-and-what-are-their-key-features-e854275b694e424b8ed744148ed0a5c9)
+
+### 2. How do you evaluate different libraries when choosing one for your project?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-do-you-evaluate-different-libraries-when-choosing-one-for-your-project-228ffae29ec3480f9e9b488106416cb4)
+
+### 3. What are some best practices for integrating and using third-party libraries in Android development?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/What-are-some-best-practices-for-integrating-and-using-third-party-libraries-in-Android-development-0e620d071aef445ba738a3ab793721e2)
+
+### 4. How do you stay updated with the latest releases and developments in popular Android libraries?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-do-you-stay-updated-with-the-latest-releases-and-developments-in-popular-Android-libraries-09b0e860a6b24f95a5878c24afd617f7)
+
+## Specific Libraries:
+## Jetpack:
+### 1. Explain the advantages of using ViewModel for managing UI-related data and surviving configuration changes.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-the-advantages-of-using-ViewModel-for-managing-UI-related-data-and-surviving-configuration-c-7d63d8e6c617418fbedf7fd85586629b)
+
+### 2. Compare and contrast LiveData and RxJava for observing data changes in the UI.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Compare-and-contrast-LiveData-and-RxJava-for-observing-data-changes-in-the-UI-c3e256fbe77d497895f3fb352ca224af)
+
+### 3. How would you use Navigation Architecture to implement deep linking in your app?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-would-you-use-Navigation-Architecture-to-implement-deep-linking-in-your-app-32b241f5910d410faf5b2baad37bbefc)
+
+### 4. Discuss the benefits and drawbacks of using Room for local data storage.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Discuss-the-benefits-and-drawbacks-of-using-Room-for-local-data-storage-d67fd42e6da04309b0cb7acecad654c1)
+
+### 5. When would you consider using WorkManager for background tasks compared to traditional AsyncTask or services?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/When-would-you-consider-using-WorkManager-for-background-tasks-compared-to-traditional-AsyncTask-or--f2af5d0409d2459a88f456d3efe29ab7)
+
+## Networking:
+### 1. Compare and contrast Retrofit and Volley for making network requests.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Compare-and-contrast-Retrofit-and-Volley-for-making-network-requests-cbe3c8f6fe374e00831b1c4b0579a732)
+
+### 2. Explain how libraries like OkHttp can be used for advanced networking features like caching and interceptors.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-how-libraries-like-OkHttp-can-be-used-for-advanced-networking-features-like-caching-and-inte-3547d5677efd414796c676766c1e42dc)
+
+### 3. How would you handle authentication and authorization with a third-party API using these libraries?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-would-you-handle-authentication-and-authorization-with-a-third-party-API-using-these-libraries-63bf0b1b696d43458ccda3bf4bbfcda4)
+
+### 4. Discuss strategies for handling offline scenarios and ensuring data consistency when using a networking library.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Discuss-strategies-for-handling-offline-scenarios-and-ensuring-data-consistency-when-using-a-network-1daa4e7cb610429cb824da3faf28b72b)
+
+## Image Loading:
+### 1. Compare and contrast Glide and Picasso for loading and displaying images in your app.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Compare-and-contrast-Glide-and-Picasso-for-loading-and-displaying-images-in-your-app-13a8f452afbf4224946db7898dbe8667)
+
+### 2. How do these libraries optimize image loading and memory usage?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/How-do-these-libraries-optimize-image-loading-and-memory-usage-f5a8e97aaa0948348893ba944e89db58)
+
+### 3. What are some advanced features offered by these libraries (e.g., transformations, caching strategies)?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/What-are-some-advanced-features-offered-by-these-libraries-e-g-transformations-caching-strategie-7aa81ee48159405983875218d3aa7397)
+
+## Other Libraries:
+### 1. Have you used Dagger for dependency injection in your projects? Discuss your experience and its benefits.
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Have-you-used-Dagger-for-dependency-injection-in-your-projects-Discuss-your-experience-and-its-bene-5941a3c179a34cc6859719af74660576)
+
+### 2. What are your thoughts on using libraries like RxJava for handling asynchronous operations?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/What-are-your-thoughts-on-using-libraries-like-RxJava-for-handling-asynchronous-operations-3a9e2f5b1fea423a9806ec329eb564e9)
+
+### 3. Explain details about using libraries like Kotlin Coroutines for handling asynchronous operations?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Explain-details-about-using-libraries-like-Kotlin-Coroutines-for-handling-asynchronous-operations-755184ea4111477f9098d6071fcb9441)
+
+### 4. Are there any other specific libraries you are familiar with and would like to highlight?
+- **Answer:** For a detailed exploration, check out [this article](https://tundra-order-124.notion.site/Are-there-any-other-specific-libraries-you-are-familiar-with-and-would-like-to-highlight-784f640f36744d89bd8a8c548bfa2dbe)
 
 ## Kotlin Coroutines
 - [Coroutines and Flow interview questions and answers](https://tundra-order-124.notion.site/Kotlin-Coroutines-and-Flow-bd52890402404d70885907426d75fc39)
