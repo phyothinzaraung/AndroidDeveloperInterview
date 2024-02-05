@@ -268,4 +268,5 @@
 
 ## Kotlin Coroutines
 - [Coroutines and Flow interview questions and answers](https://tundra-order-124.notion.site/Kotlin-Coroutines-and-Flow-bd52890402404d70885907426d75fc39)
+- [20 Questions and Answers about Kotlin Coroutines](https://tundra-order-124.notion.site/Kotlin-Coroutines-Questions-and-Answers-cc2f785798f14dc7be5bf573370d5b2e)
 
