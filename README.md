@@ -9,6 +9,7 @@
 - [Android Libraries](#android-libraries)
 - [Android Testing](#android-testing)
 - [Kotlin Coroutines](#kotlin-coroutines)
+- [Design Patterns](#design-patterns)
 
 ## All Questions
 check out [Questions](https://tundra-order-124.notion.site/Questions-abf1a5837e16412aadd36f91fc82dbcc)
@@ -273,4 +274,7 @@ check out [Questions](https://tundra-order-124.notion.site/Questions-abf1a5837e1
 ## Kotlin Coroutines
 - [Coroutines and Flow interview questions and answers](https://tundra-order-124.notion.site/Kotlin-Coroutines-and-Flow-bd52890402404d70885907426d75fc39)
 - [20 Questions and Answers about Kotlin Coroutines](https://tundra-order-124.notion.site/Kotlin-Coroutines-Questions-and-Answers-cc2f785798f14dc7be5bf573370d5b2e)
+
+## Design Patterns
+- [ViewHolder Pattern](https://medium.com/@phyothinzaraung/what-is-viewholder-pattern-in-android-1604654851a9)
 
