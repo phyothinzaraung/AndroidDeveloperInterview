@@ -10,6 +10,7 @@
 - [Android Testing](#android-testing)
 - [Kotlin Coroutines](#kotlin-coroutines)
 - [Design Patterns](#design-patterns)
+- [Kotlin](#kotlin)
 
 ## All Questions
 check out [Questions](https://tundra-order-124.notion.site/Questions-abf1a5837e16412aadd36f91fc82dbcc)
@@ -277,4 +278,7 @@ check out [Questions](https://tundra-order-124.notion.site/Questions-abf1a5837e1
 
 ## Design Patterns
 - [ViewHolder Pattern](https://medium.com/@phyothinzaraung/what-is-viewholder-pattern-in-android-1604654851a9)
+
+## Kotlin
+- [Advantages and Disadvantages of Kotlin](https://medium.com/@phyothinzaraung/advantages-and-disadvantages-of-kotlin-0bb40d2a2023)
 
