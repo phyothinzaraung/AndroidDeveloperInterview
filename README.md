@@ -52,7 +52,7 @@ check out [Questions](https://tundra-order-124.notion.site/Questions-abf1a5837e1
 
 ## Jetpack Compose
 
-- [30 interview questions and answers](https://medium.com/@phyothinzaraung/jetpack-compose-interview-questions-and-answers-d24b56cf583c)
+- [30 interview questions and answers](https://tundra-order-124.notion.site/Jetpack-Compose-Interview-Questions-and-Answers-7469e47c1bcb4a45a69b7b4d4ec5eacf?pvs=4)
 
 ## Android Core
 
